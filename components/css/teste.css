@@ -1,19 +1,12 @@
-.title {
-  font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
- 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-  display: block;
-  font-weight: 300;
-  font-size: 100px;
-  color: #35495e;
-  letter-spacing: 1px;
-}
-
 body {
   background-color: #adadf1;
 }
 
+.centro{
+  padding: 10px;
+}
 .footer{
-      position:absolute;
+    position:absolute;
     bottom:0;
     width:100%;
 }
@@ -25,12 +18,11 @@ body {
 }
 
 .rodapef {
-  grid-row-start: 1;
-  grid-row-end: 2;
+  grid-row-start: 10;
+  grid-row-end: 12;
   grid-column-start: 2;
   grid-column-end: 3;
-  color: white;
   justify-content: center;
   padding-top: 5px;
-  
+  color: aqua;
 }

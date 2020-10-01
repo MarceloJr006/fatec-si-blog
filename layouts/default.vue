@@ -2,7 +2,7 @@
   <div>
     <Header />
     <div class="centro">
-      <h1>IGN</h1>
+      <h1><n-link to="/" no-prefetch>IGN</n-link></h1>
     </div>
     <Nuxt />
     <Footer />

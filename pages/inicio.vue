@@ -12,7 +12,7 @@ export default {
 <style>
     .container{
         display: grid;
-        grid-template-columns: repeat(4, 1fr);
+        grid-template-columns: repeat(5, 1fr);
         grid-template-rows: repeat(10, 1fr);
     }
 

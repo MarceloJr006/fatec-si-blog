@@ -1,7 +1,5 @@
 <template>
   <div>
-    <div class="footer">
-    </div>
     <div class="gridrodape">
       <p class="rodapef">
         ©Todos os direitos reservados.</p>
