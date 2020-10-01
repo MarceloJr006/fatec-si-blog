@@ -19,6 +19,6 @@ export default {}
   .cabeca{
     display: flex;
     grid-column: 2/3;
-    grid-row: 1/1;
+    grid-row: 1/2;
   }
 </style>
