@@ -6,7 +6,7 @@
         <img src="https://s2.glbimg.com/_7ptw6NKzcKabtkw5mTrmW-VgeQ=/13x0:1363x767/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/I/H/bM8pGFRMOnPKvyQ6T9tw/playstation-5.jpg" alt="Avatar" style="width:100%">
             <div class="container2">
               <h4><b>PS5</b></h4> 
-
+                <p>PS5 vai ter preços de R$ 4.500 e R$ 5.000 e chega ao Brasil dia 19 de novembro</p> 
           </div>
           </n-link>
     </div>
