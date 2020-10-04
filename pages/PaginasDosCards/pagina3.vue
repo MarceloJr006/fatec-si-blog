@@ -2,7 +2,7 @@
     <div>
         <div class="containerpag3">
             <div class="imagempag3">
-                <img src="https://s2.glbimg.com/gCsT4K6iBsVnRW4_2ompMBfM5bM=/0x0:1150x647/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/F/a/t2yJzNSE69nk5ZIXvCCQ/xbox-series-x-series-s.jpg" alt="">
+                <img src="https://s2.glbimg.com/_7ptw6NKzcKabtkw5mTrmW-VgeQ=/13x0:1363x767/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/I/H/bM8pGFRMOnPKvyQ6T9tw/playstation-5.jpg" alt="">
             </div>
             <div class="infonotpag3">
                 <b><u>PS5 vai ter preços de R$ 4.500 e R$ 5.000 e chega ao Brasil dia 19 de novembro</u></b>
