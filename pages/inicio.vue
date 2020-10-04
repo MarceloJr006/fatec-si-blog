@@ -13,7 +13,7 @@ export default {
     .container{
         display: grid;
         grid-template-columns: repeat(5, 1fr);
-        grid-template-rows: repeat(10, 1fr);
+        grid-template-rows: repeat(3, 1fr);
     }
 
     .cabeca{

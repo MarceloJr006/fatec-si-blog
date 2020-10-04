@@ -1,12 +1,39 @@
 <template>
   <div>
+    <div class="cabeca1">
     <Header />
-    <div class="centro">
-      <h1><n-link to="/" no-prefetch>IGN</n-link></h1>
+  
+      <b-navbar>
+        <template slot="brand">
+          <n-link to="/" no-prefetch>
+            <b-navbar-item tag="router-link" :to="{ path: '/' }">
+                <img
+                    src="https://upload.wikimedia.org/wikipedia/commons/d/d4/IGN_Logo.png"
+                    alt="LOGO IGN"
+                >
+            </b-navbar-item>
+            </n-link>
+        </template>
+        <template slot="start">
+          <nuxt-link to="/">
+            <b-navbar-item >
+                Home
+            </b-navbar-item>
+            </nuxt-link>
+
+            <nuxt-link to="/PaginasDosCards/publicar">
+            <b-navbar-item>
+                Publicar
+            </b-navbar-item>
+            </nuxt-link>
+        </template>
+        
+    </b-navbar>
     </div>
     <Nuxt />
     <Footer />
   </div>
+  
 </template>
 
 <script>
@@ -38,55 +65,8 @@ export default {
 </script>
 
 <style>
-html {
-  font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI',
-    Roboto, 'Helvetica Neue', Arial, sans-serif;
-  font-size: 16px;
-  word-spacing: 1px;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-font-smoothing: antialiased;
-  box-sizing: border-box;
-}
-
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-  margin: 0;
-}
-
-.button--green {
-  display: inline-block;
-  border-radius: 4px;
-  border: 1px solid #3b8070;
-  color: #3b8070;
-  text-decoration: none;
-  padding: 10px 30px;
-}
-
-.button--green:hover {
-  color: #fff;
-  background-color: #3b8070;
-}
-
-.button--grey {
-  display: inline-block;
-  border-radius: 4px;
-  border: 1px solid #35495e;
-  color: #35495e;
-  text-decoration: none;
-  padding: 10px 30px;
-  margin-left: 15px;
-}
-
-.button--grey:hover {
-  color: #fff;
-  background-color: #35495e;
-}
-
-.centro {
-  text-align: center;
+.cabeca1{
+  padding-bottom: 1%;
+  
 }
 </style>
