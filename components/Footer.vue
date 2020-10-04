@@ -2,6 +2,7 @@
   <div>
     <div class="gridrodape">
       <p class="rodapef">
+        Matheus Araujo, Marcelo Junior e Vinícius Mantovani. 
         ©Todos os direitos reservados.</p>
     </div>
   </div>
